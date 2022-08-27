@@ -3,3 +3,7 @@ function laCajaDePandora(numero){
 //estoy en la rama facucorona-------------------
 ///otro cambio más
 }
+
+function suma(x){
+    return x+5
+}
