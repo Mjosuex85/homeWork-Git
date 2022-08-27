@@ -5,5 +5,6 @@ function laCajaDePandora(numero){
 }
 
 function suma(x){
+    x=8*x
     return x+5
 }
