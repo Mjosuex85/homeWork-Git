@@ -1,5 +1,5 @@
 function laCajaDePandora(numero){
-// proximamente escribiremos codigo aqui
 
-
+let number = 0
+return number
 }
