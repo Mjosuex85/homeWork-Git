@@ -1,4 +1,10 @@
 function laCajaDePandora(numero){
 // proximamente escribiremos codigo aqui
-    return "rama de diego";
+
+
+
+
+console.log("rama de diego");
 }
+
+//modificacion de diego
