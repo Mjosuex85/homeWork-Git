@@ -1,6 +1,6 @@
 function laCajaDePandora(numero){
+// proximamente escribiremos codigo aqui
 
-let number = 0;
-number += 25;
-return number
+
+
 }
